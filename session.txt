@@ -1,0 +1,7 @@
+setup_chess(B,4,3)
+setup_chess(N,2,1)
+setup_chess(K,1,1)
+setup_chess(P,1,3)
+start_game
+moves(4,3)
+move_and_capture(4,3,2,1)
